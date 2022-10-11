@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+}
+
+.nav{
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.nav a{
+    text-decoration: none;
+    padding: 10px;
+    color:  #fff ;
+    font-weight: bold;
+    border-right: 1px solid #fff;
+}
+
+.nav:last-child{
+    border-right: none;
+}
+
+.headerimg{
+    width: fit-content;
+    height: 350px ;
+}
