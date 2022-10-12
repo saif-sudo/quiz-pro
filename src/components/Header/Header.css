@@ -25,3 +25,12 @@
     width: fit-content;
     height: 350px ;
 }
+
+.mainbody{
+    background-color: bisque;
+}
+
+.quizsection{
+    display: flex;
+    justify-content: center;
+}
