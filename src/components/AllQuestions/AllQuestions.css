@@ -3,5 +3,21 @@
 }
 
 .options label{
-    padding: 20px;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    padding: 6px;
+}
+
+.optionsDesign{
+    display: flex;
+    background: #ddd;
+    width: 50%;
+    margin: 20px;
+    border: 2px solid peru;
+    border-radius: 8px;
+    justify-content: start;
 }

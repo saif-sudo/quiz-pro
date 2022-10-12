@@ -33,7 +33,7 @@ function App() {
       {path: '/blog' , element: <Blog></Blog>}
     ]},
         
-    {path: '*' , element: <h1>This Route not Found!!!</h1>}
+    {path: '*' , element: <h1> Sorry, This Route not Found!!!</h1>}
      
         
        
