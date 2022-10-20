@@ -2,7 +2,6 @@ import React from 'react';
 import { useLoaderData } from 'react-router-dom';
 import AllQuestions from '../AllQuestions/AllQuestions';
 
-
 const QuizDetails = () => {
   
     const  quizes = useLoaderData().data.questions;

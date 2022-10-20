@@ -9,7 +9,9 @@ import Blog from './components/Blog/Blog';
 import QuizDetails from './components/QuizDetails/QuizDetails';
 
 
+
 function App() {
+
   const router = createBrowserRouter([
     {path: '/' , element: <Main></Main>, 
     children:[

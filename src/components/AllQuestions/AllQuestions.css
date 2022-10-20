@@ -21,3 +21,12 @@
     border-radius: 8px;
     justify-content: start;
 }
+.optionsDesign input{
+    margin-left: 20px;
+    padding: 30px;
+}
+
+.allquiz button{
+    border: none;
+    background: none;
+}
