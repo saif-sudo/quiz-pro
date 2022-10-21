@@ -34,3 +34,11 @@
     display: flex;
     justify-content: center;
 }
+
+@media only screen and (max-width: 900px) {
+   .quizsection{
+    display: inline-block;
+    height: 219px;
+   }
+  
+  }

@@ -10,15 +10,15 @@
     align-content: center;
     align-items: center;
     padding: 6px;
+   
 }
 
 .optionsDesign{
     display: flex;
-    background: #ddd;
-    width: 50%;
+   
+    width: 60%;
     margin: 20px;
-    border: 2px solid peru;
-    border-radius: 8px;
+   
     justify-content: start;
 }
 .optionsDesign input{
